@@ -25,11 +25,7 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "lodash": "^4.17.11",
-<<<<<<< HEAD
     "popper": "^1.0.1",
-=======
-    "popper.js": "^1.14.4",
->>>>>>> 51fa369376c2b69a27c7cb5eccf9eb81e3d22b05
     "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
   },
