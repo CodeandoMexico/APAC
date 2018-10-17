@@ -1,6 +1,9 @@
 # Apac
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
+Una plataforma para que maestros puedan evaluar y dar seguimiento las habilidades de vida de niños y niñas con parálisis cerebral.
+
+
+Este proyecto esta generado en [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
 
 ## Development server
 
