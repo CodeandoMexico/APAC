@@ -5,7 +5,7 @@ import { EvaluationComponent } from './evaluation/evaluation.component';
 import { AdminstratorComponent } from './adminstrator/adminstrator.component';
 
 const routes: Routes = [
-  { path: 'home', component: HomeComponent },
+  { path: '', component: HomeComponent },
   { path: 'evaluation', component: EvaluationComponent },
   { path: 'administrator', component: AdminstratorComponent }
 ];
